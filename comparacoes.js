@@ -9,6 +9,14 @@ console.log(numero == texto);
 
 console.log(numero === texto);
 
+// Operador Ternario
+
+//TERNARIO 
+                // condição                // True      // False
+   console.log(idadeCliente>=idadeMinima ?  "cerveja" : "suco");
+
+
+
 // Typeof
 
 console.log(typeof numero);
@@ -18,3 +26,4 @@ console.log(typeof texto);
 
 Number()
 String()
+
